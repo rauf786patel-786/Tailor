@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Bombaywala Tailor Bharuch</string>
+    <string name="shop_tagline">Gents &amp; Ladies Specialist • Station Road, Bharuch</string>
+    <string name="add_customer">Add Customer</string>
+    <string name="search_customer">Search by name or mobile number&#8230;</string>
+    <string name="ladies_measurement">Ladies Measurement</string>
+    <string name="gents_measurement">Gents Measurement</string>
+    <string name="backup_restore">Backup &amp; Restore</string>
+    <string name="save_record">Save Record</string>
+</resources>
